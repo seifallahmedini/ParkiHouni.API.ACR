@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ParkiHouni.API.ACR.props" />
+</Project>

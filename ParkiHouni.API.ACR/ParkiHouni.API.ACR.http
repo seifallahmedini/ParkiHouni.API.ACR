@@ -1,0 +1,6 @@
+@ParkiHouni.API.ACR_HostAddress = http://localhost:5076
+
+GET {{ParkiHouni.API.ACR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
